@@ -2,7 +2,7 @@
   "name": "nameko-js",
   "version": "0.1.0",
   "description": "Nameko microservice in node.js",
-  "main": "index.js",
+  "main": "src/nameko.js",
   "engines": {
     "node": ">=8.6"
   },
